@@ -12,7 +12,6 @@ def determine_utilization_status(usage_score):
 
 
 def get_parking_utilization_summary():
-    # Fixed values for Jenkins / CI
     parking_area_name = "Main Campus Parking"
     vehicle_type = "Car"
     number_of_vehicles = 15
